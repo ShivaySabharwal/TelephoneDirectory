@@ -1,3 +1,9 @@
+https://img.shields.io/github/issues/ShivaySabharwal/TelephoneDirectory
+https://img.shields.io/github/forks/ShivaySabharwal/TelephoneDirectory
+https://img.shields.io/github/stars/ShivaySabharwal/TelephoneDirectory
+https://img.shields.io/github/license/ShivaySabharwal/TelephoneDirectory
+https://img.shields.io/twitter/url?style=social
+
 # TelephoneDirectory
 - The Telephone Directory In C++ Project is written in the C++ programming language and is based on the concept of recording contact information. There is also a login mechanism in place for this project.
 
