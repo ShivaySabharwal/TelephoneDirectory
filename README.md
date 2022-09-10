@@ -1,6 +1,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/ShivaySabharwal/TelephoneDirectory)](https://github.com/ShivaySabharwal/TelephoneDirectory/issues) [![GitHub license](https://img.shields.io/github/license/ShivaySabharwal/TelephoneDirectory)](https://github.com/ShivaySabharwal/TelephoneDirectory/blob/main/LICENSE) [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FHaSh_0001)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FShivaySabharwal%2FTelephoneDirectory) ![GitHub followers](https://img.shields.io/github/followers/ShivaySabharwal?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/ShivaySabharwal/TelephoneDirectory) ![GitHub repo size](https://img.shields.io/github/repo-size/ShivaySabharwal/TelephoneDirectory)
 
-<img src="Images/Tele1.png" width="200">
+[//]: # (<img src="Images/Tele1.png" width="100" height="200">)
+![](Images/Tele1.png)
 
 # TelephoneDirectory
 
