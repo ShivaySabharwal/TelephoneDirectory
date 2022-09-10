@@ -1,0 +1,8 @@
+{
+    "editor.codeActionsOnSave": {
+    
+    },
+    "files.exclude": {
+        "**/.vscode": true
+    }
+}
